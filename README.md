@@ -1,1 +1,1 @@
-# electron-ipc-state
+# example-electron-ipc-state
